@@ -7,6 +7,7 @@ const createCard = (artist) => {
 
     card.innerHTML = `
     <div class="card">
+    <img class="card-img-top" src="${artist.imgUrl}" alt="Card image cap">
     <div class="card-body">
     <h5 class="card-title"> ${artist.name}</h5>
     <p class="card-text">

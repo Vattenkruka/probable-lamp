@@ -13,3 +13,12 @@
     height:auto;
     
 }
+
+.artistFeatured{
+    margin-bottom: 10%;
+}
+
+.card-img-top{
+    width:180px;
+    height:180px;
+}
