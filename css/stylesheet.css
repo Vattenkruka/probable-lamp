@@ -1,3 +1,15 @@
 .white-text{
     color:white;
 }
+
+.card-deck{
+    justify-content: center;
+    display:flex;
+    height:auto;
+}
+
+.card{
+    width:200px;
+    height:auto;
+    
+}
