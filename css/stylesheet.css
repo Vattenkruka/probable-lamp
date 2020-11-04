@@ -11,14 +11,19 @@
 .card{
     width:200px;
     height:auto;
-    
+    margin-bottom: 2%;
 }
 
 .artistFeatured{
-    margin-bottom: 10%;
+    margin-bottom: 100px !important;
 }
 
 .card-img-top{
     width:180px;
     height:180px;
+}
+
+.margin{
+    height:50px;
+    margin: 50px;
 }
